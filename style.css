@@ -1,0 +1,15 @@
+body {
+    background-color: whitesmoke;
+}
+.Information {
+    font-size: 30px;
+    color:blue;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+#table {
+    background-color: aqua;
+    color:azure;
+}
